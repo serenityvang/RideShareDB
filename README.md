@@ -1,5 +1,7 @@
 ShareSync Ride-Sharing Platform
+
 Leroy Freeman, Serenity Vang, Saif Khan and Ahmed Abddi
+
 September 2023 - November 2023
 
 
