@@ -24,8 +24,11 @@ Solution Statement
 Scope & System Overview
 Project Name: ShareSync Ridesharing Platform
 The ShareSync Ridesharing Platform will:
+
 •	Streamline data management to eliminate data redundancy and improve data consistency.
+
 •	Facilitate unique customer identification through phone numbers.
+
 •	Improve the overall functionality and reliability of the ShareSync ride-sharing platform.
 
 
@@ -34,9 +37,13 @@ The system uses MariaDB as its database storage.
 The main functionalities of the system are the following:
 
 •	Adding, editing, and deleting data
+
 •	User Registration and Profile Management
+
 •	Driver and Vehicle Information
+
 •	Scalability and System Maintenance 
+
 
 Business Rules
 
